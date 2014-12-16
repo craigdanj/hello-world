@@ -10,3 +10,4 @@ Might want to read:
 - [ ] https://help.github.com/articles/writing-on-github/#references
 - [ ] https://help.github.com/articles/markdown-basics/
 - [ ] https://guides.github.com/features/mastering-markdown/
+- [ ] https://help.github.com/articles/github-flavored-markdown/
